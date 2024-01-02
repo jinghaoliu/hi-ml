@@ -17,7 +17,7 @@ The notebook can also be run on [Binder][4], without the need to download any co
 The latest version can be installed using `pip`:
 
 ```console
-pip install "pip install "git+https://github.com/jinghaoliu/hi-ml.git#subdirectory=hi-ml-multimodal"
+pip install "git+https://github.com/jinghaoliu/hi-ml.git#subdirectory=hi-ml-multimodal"
 ```
 
 ### Development
