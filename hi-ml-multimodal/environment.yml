@@ -4,7 +4,7 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - pip
+  - pip=20.1.1
   - pip:
     - -r requirements_run.txt
     - -r requirements_test.txt
